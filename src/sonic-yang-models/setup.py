@@ -215,6 +215,7 @@ yang_files = [
     'sonic-vnet.yang',
     'sonic-voq-inband-interface.yang',
     'sonic-vrf.yang',
+    'sonic-vrrp.yang',
     'sonic-vxlan.yang',
     'sonic-warm-restart.yang',
     'sonic-wred-profile.yang',
